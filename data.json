@@ -1,6 +1,7 @@
 {
   "software": [
-    { "name": "WinRAR", "description": "File compression and extraction tool", "image": "assets/software/winrar.png", "link": "https://rarlab.com/download.htm" }
+    { "name": "WinRAR", "description": "File compression and extraction tool", "image": "assets/software/winrar.png", "link": "https://rarlab.com/download.htm" },
+    { "name": "Windows 11", "description": "Operating system for your PC", "image": "assets/tutorials/windows11.png", "link": "https://rarlab.com/download.htm" }
 
   ],
   "games": [
