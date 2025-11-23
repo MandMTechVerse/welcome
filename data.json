@@ -1,14 +1,14 @@
 {
   "software": [
-    { "name": "WinRAR", "description": "File compression and extraction tool", "image": "assets/software/winrar.png", "link": "https://rarlab.com/download.htm" },
+    { "name": "WinRAR", "description": "File compression and extraction tool", "image": "assets/software/winrar.png", "link": "https://rarlab.com/download.htm" }
 
   ],
   "games": [
-    { "name": "PC Building Simulator", "description": "Free PC Build mode with 1200+ realistic parts.", "image": "assets/games/pcbuildingsimulator.png", "link": "https://minecraft.net" },
+    { "name": "PC Building Simulator", "description": "Free PC Build mode with 1200+ realistic parts.", "image": "assets/games/pcbuildingsimulator.png", "link": "https://minecraft.net" }
 
   ],
   "tutorials": [
-    { "name": "Windows 11", "description": "Step-by-step guide to install Windows 11.", "image": "assets/tutorials/windows11.png", "link": "https://example.com/tutorial/windows11" },
+    { "name": "Windows 11", "description": "Step-by-step guide to install Windows 11.", "image": "assets/tutorials/windows11.png", "link": "https://example.com/tutorial/windows11" }
 
   ]
 }
