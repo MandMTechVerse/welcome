@@ -9,7 +9,7 @@
   ],
   "tutorials": [
     { "name": "Windows 11", "description": "Step-by-step guide to install Windows 11.", "image": "assets/tutorials/windows11.png", "link": "https://example.com/tutorial/windows11" },
-    { "name": "Windows 11 Activation", "description": "Step-by-step guide to activate Windows 11.", "image": "assets/tutorials/windows11.png", "link": "https://example.com/tutorial/windows11" }
+    { "name": "Windows 11 Activation", "description": "Guide to activate Windows 11.", "image": "assets/tutorials/windows11.png", "link": "https://example.com/tutorial/windows11" }
 
   ]
 }
