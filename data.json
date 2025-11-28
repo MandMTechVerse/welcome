@@ -13,7 +13,7 @@
   "tutorials": [
     { "name": "WinRAR Installation", "description": "How to install WinRAR on your PC", "image": "assets/software/winrar.png", "link": "https://www.facebook.com/watch/?v=801214716294217" },
     { "name": "Windows 11 Installation", "description": "Step-by-step guide to install Windows 11.", "image": "assets/tutorials/windows11.png", "link": "https://www.facebook.com/watch/?v=1881694019225517" },
-    { "name": "Windows 11 Activation", "description": "Guide to activate Windows 11.", "image": "assets/tutorials/windows11.png", "link": "https://example.com/tutorial/windows11" }
+    { "name": "Windows 11 Activation", "description": "Guide to activate Windows 11.", "image": "assets/tutorials/windows11.png", "link": "https://t.me/MandMTechVerse/40" }
 
   ]
 }
