@@ -2,7 +2,7 @@
   "software": [
     { "name": "WinRAR v7.20 Beta 2", "description": "File compression and extraction tool", "image": "assets/software/winrar.png", "link": "https://t.me/MandMTechVerse/25" },
     { "name": "Ventoy v1.1.07", "description": "A tool to create (multi)bootable USB sticks for ISO files", "image": "assets/software/ventoy.png", "link": "https://t.me/MandMTechVerse/30" },
-    { "name": "Windows 11", "description": "Operating system for your PC", "image": "assets/tutorials/windows11.png", "link": "https://t.me/MandMTechVerse/31" }
+    { "name": "Windows 11 v25H2", "description": "Operating system for your PC", "image": "assets/tutorials/windows11.png", "link": "https://t.me/MandMTechVerse/31" }
 
   ],
   "games": [
