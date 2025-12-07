@@ -4,7 +4,7 @@
     { "name": "Ventoy v1.1.07", "description": "A tool to create (multi)bootable USB sticks for ISO files", "image": "assets/software/ventoy.png", "link": "https://t.me/MandMTechVerse/30" },
     { "name": "Windows 11 v25H2", "description": "Operating system for your PC", "image": "assets/tutorials/windows11.png", "link": "https://t.me/MandMTechVerse/31" },
     { "name": "Windows Activation Program", "description": "To activate Windows", "image": "assets/tutorials/windows11.png", "link": "https://t.me/MandMTechVerse/39" },
-    { "name": "Snappy Driver Installer", "description": "To install system driver", "image": "assets/software/sdi.png", "link": "https://t.me/MandMTechVerse/55" }
+    { "name": "Snappy Driver Installer v1.25.3", "description": "To install system driver", "image": "assets/software/sdi.png", "link": "https://t.me/MandMTechVerse/55" }
 
   ],
   "games": [
