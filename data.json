@@ -23,7 +23,7 @@
     { "name": "Adobe Product Installation", "description": "How to install Adobe Products", "image": "assets/software/adobe.png", "link": "https://www.facebook.com/watch/?v=1870806573529969" },
     { "name": "PC Building Simulator Installation", "description": "How to install PC Building Simulator", "image": "assets/games/pcbuildingsimulator.png", "link": "https://www.facebook.com/watch/?v=1872012653398668" },
     { "name": "Alien Shooter - Last Hope Installation", "description": "How to install Alien Shooter - Last Hope", "image": "assets/games/alienshooter.png", "link": "https://www.facebook.com/watch/?v=4279651622305457" },
-    { "name": "Plants Vs Zombies (Replanted)", "description": "How to install Plants Vs Zombies (Replanted)", "image": "assets/games/plantsvszombies.png", "link": "https://www.facebook.com/watch/?v=824665153406604" }
+    { "name": "Plants Vs Zombies (Replanted)", "description": "How to install Plants Vs Zombies (Replanted)", "image": "assets/games/plantsvszombies-replanted.png", "link": "https://www.facebook.com/watch/?v=824665153406604" }
 
   ]
 }
