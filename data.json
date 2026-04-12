@@ -5,7 +5,8 @@
     { "name": "Windows 11 v25H2", "description": "Operating System for your PC", "image": "assets/tutorials/windows11.png", "link": "https://t.me/MandMTechVerse/31" },
     { "name": "Windows Activation Program", "description": "To activate Windows", "image": "assets/tutorials/windows11.png", "link": "https://t.me/MandMTechVerse/39" },
     { "name": "Snappy Driver Installer v1.25.3", "description": "To install System Driver", "image": "assets/software/sdi.png", "link": "https://t.me/MandMTechVerse/55" },
-    { "name": "Adobe Master Collection v12", "description": "To install Adobe Products", "image": "assets/software/adobe.png", "link": "https://t.me/MandMTechVerse/104" }
+    { "name": "Adobe Master Collection v12", "description": "To install Adobe Products", "image": "assets/software/adobe.png", "link": "https://t.me/MandMTechVerse/104" },
+    { "name": "Microsoft Office 365", "description": "To install Microsoft Office 365", "image": "assets/software/office365.png", "link": "" }
 
   ],
   "games": [
@@ -24,7 +25,8 @@
     { "name": "PC Building Simulator Installation", "description": "How to install PC Building Simulator", "image": "assets/games/pcbuildingsimulator.png", "link": "https://www.facebook.com/watch/?v=1872012653398668" },
     { "name": "Alien Shooter - Last Hope Installation", "description": "How to install Alien Shooter - Last Hope", "image": "assets/games/alienshooter.png", "link": "https://www.facebook.com/watch/?v=4279651622305457" },
     { "name": "Plants Vs Zombies (Replanted)", "description": "How to install Plants Vs Zombies (Replanted)", "image": "assets/games/plantsvszombies-replanted.png", "link": "https://www.facebook.com/watch/?v=824665153406604" },
-    { "name": "Onimusha Warlords", "description": "How to install Onimusha Warlords", "image": "assets/games/onimushawarlords.png", "link": "https://www.facebook.com/watch/?v=1495764112199847" }
+    { "name": "Onimusha Warlords", "description": "How to install Onimusha Warlords", "image": "assets/games/onimushawarlords.png", "link": "https://www.facebook.com/watch/?v=1495764112199847" },
+    { "name": "Microsoft Office 365 Installation", "description": "How to install Microsoft Office 365", "image": "assets/software/office365.png", "link": "" }
 
   ]
 }
