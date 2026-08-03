@@ -26,7 +26,20 @@
     { "name": "Alien Shooter - Last Hope Installation", "description": "How to install Alien Shooter - Last Hope", "image": "assets/games/alienshooter.png", "link": "https://www.facebook.com/watch/?v=4279651622305457" },
     { "name": "Plants Vs Zombies (Replanted)", "description": "How to install Plants Vs Zombies (Replanted)", "image": "assets/games/plantsvszombies-replanted.png", "link": "https://www.facebook.com/watch/?v=824665153406604" },
     { "name": "Onimusha Warlords", "description": "How to install Onimusha Warlords", "image": "assets/games/onimushawarlords.png", "link": "https://www.facebook.com/watch/?v=1495764112199847" },
-    { "name": "Microsoft Office 365 Installation", "description": "How to install Microsoft Office 365", "image": "assets/software/office365.png", "link": "https://www.facebook.com/watch/?v=1700305614317061" }
+    { "name": "Microsoft Office 365 Installation", "description": "How to install Microsoft Office 365", "image": "assets/software/office365.png", "link": "https://www.facebook.com/watch/?v=1700305614317061" },
+    { "name": "သုတရတနာသိုက်", "description": "ယူနီဗာ့ဆ် နှင့် ရာသီဥတု", "image": "assets/knowledge/01.png", "link": "_" },
+    { "name": "သုတရတနာသိုက်", "description": "အပင်များ", "image": "assets/knowledge/02.png", "link": "_" },
+    { "name": "သုတရတနာသိုက်", "description": "ကမ္ဘာဦးသက်ရှိများ", "image": "assets/knowledge/03.png", "link": "_" },
+    { "name": "သုတရတနာသိုက်", "description": "ရေအောက်သက်ရှိများ", "image": "assets/knowledge/04.png", "link": "_" },
+    { "name": "သုတရတနာသိုက်", "description": "အင်းဆက်ပိုးများ", "image": "assets/knowledge/05.png", "link": "_" },
+    { "name": "သုတရတနာသိုက်", "description": "တိရစ္ဆာန်များ", "image": "assets/knowledge/06.png", "link": "_" },
+    { "name": "သုတရတနာသိုက်", "description": "သင်္ချာ", "image": "assets/knowledge/07.png", "link": "_" },
+    { "name": "သုတရတနာသိုက်", "description": "အီလက်ထရွန်နစ် နှင့် စွမ်းအင်", "image": "assets/knowledge/08.png", "link": "_" },
+    { "name": "သုတရတနာသိုက်", "description": "ပို့ဆောင်ရေးယာဉ်များ", "image": "assets/knowledge/09.png", "link": "_" },
+    { "name": "သုတရတနာသိုက်", "description": "ဝါသနာပါရာ အပန်းဖြေစရာ", "image": "assets/knowledge/10.png", "link": "_" }
+
+  ]
+}
 
   ]
 }
