@@ -18,16 +18,16 @@
 
   ],
   "tutorials": [
-    { "name": "WinRAR Installation", "description": "How to install WinRAR on your PC", "image": "assets/software/winrar.png", "link": "https://www.facebook.com/watch/?v=801214716294217" },
-    { "name": "Windows 11 Installation", "description": "Step-by-step guide to install Windows 11", "image": "assets/tutorials/windows11.png", "link": "https://www.facebook.com/watch/?v=1881694019225517" },
-    { "name": "Windows 11 Activation", "description": "Guide to activate Windows 11", "image": "assets/tutorials/windows11.png", "link": "https://t.me/MandMTechVerse/40" },
-    { "name": "Snappy Driver Installer", "description": "How to use Snappy Driver Installer", "image": "assets/software/sdi.png", "link": "https://www.facebook.com/watch/?v=841753772160524" },
-    { "name": "Adobe Product Installation", "description": "How to install Adobe Products", "image": "assets/software/adobe.png", "link": "https://www.facebook.com/watch/?v=1870806573529969" },
-    { "name": "PC Building Simulator Installation", "description": "How to install PC Building Simulator", "image": "assets/games/pcbuildingsimulator.png", "link": "https://www.facebook.com/watch/?v=1872012653398668" },
-    { "name": "Alien Shooter - Last Hope Installation", "description": "How to install Alien Shooter - Last Hope", "image": "assets/games/alienshooter.png", "link": "https://www.facebook.com/watch/?v=4279651622305457" },
-    { "name": "Plants Vs Zombies (Replanted)", "description": "How to install Plants Vs Zombies (Replanted)", "image": "assets/games/plantsvszombies-replanted.png", "link": "https://www.facebook.com/watch/?v=824665153406604" },
-    { "name": "Onimusha Warlords", "description": "How to install Onimusha Warlords", "image": "assets/games/onimushawarlords.png", "link": "https://www.facebook.com/watch/?v=1495764112199847" },
-    { "name": "Microsoft Office 365 Installation", "description": "How to install Microsoft Office 365", "image": "assets/software/office365.png", "link": "https://www.facebook.com/watch/?v=1700305614317061" },
+    { "name": "WinRAR Installation", "description": "How to install WinRAR on your PC", "image": "assets/software/winrar.png", "link": "https://youtu.be/dr0kZUySOsw?si=VJQAoYLbYS65JSUt" },
+    { "name": "Windows 11 Installation", "description": "Step-by-step guide to install Windows 11", "image": "assets/tutorials/windows11.png", "link": "https://youtu.be/wetyCRFuDDc?si=S9gt-qOfVB8tcMJD" },
+    { "name": "Windows 11 Activation", "description": "Guide to activate Windows 11", "image": "assets/tutorials/windows11.png", "link": "https://youtu.be/Rv7MfBnTzpY?si=EdaIj4zA7YaZBmBy" },
+    { "name": "Snappy Driver Installer", "description": "How to use Snappy Driver Installer", "image": "assets/software/sdi.png", "link": "https://youtu.be/hkwoz7EDOAQ?si=12fGmn3_I4xRRzRJ" },
+    { "name": "Adobe Product Installation", "description": "How to install Adobe Products", "image": "assets/software/adobe.png", "link": "https://youtu.be/hyk-40hh5RI?si=a7KsSR2UXQPEjNeH" },
+    { "name": "PC Building Simulator Installation", "description": "How to install PC Building Simulator", "image": "assets/games/pcbuildingsimulator.png", "link": "https://youtu.be/R0grFsp5_IA?si=mXz49WfT2KkXqEFV" },
+    { "name": "Alien Shooter - Last Hope Installation", "description": "How to install Alien Shooter - Last Hope", "image": "assets/games/alienshooter.png", "link": "https://youtu.be/Du_f1q2GLEA?si=G61bm6lqIdO9_KDG" },
+    { "name": "Plants Vs Zombies (Replanted)", "description": "How to install Plants Vs Zombies (Replanted)", "image": "assets/games/plantsvszombies-replanted.png", "link": "https://youtu.be/SDfn5dMzKdE?si=2_tar2euZlziLfUk" },
+    { "name": "Onimusha Warlords", "description": "How to install Onimusha Warlords", "image": "assets/games/onimushawarlords.png", "link": "https://youtu.be/uckMMWMaC0Q?si=Ek74wMMCpWAgq1oz" },
+    { "name": "Microsoft Office 365 Installation", "description": "How to install Microsoft Office 365", "image": "assets/software/office365.png", "link": "https://youtu.be/_0SX7nIwxbI?si=uZ_ArIn_PXMRe3lG" },
     { "name": "သုတရတနာသိုက်", "description": "ယူနီဗာ့ဆ် နှင့် ရာသီဥတု", "image": "assets/knowledge/01.png", "link": "https://t.me/MandMTechVerse/174" },
     { "name": "သုတရတနာသိုက်", "description": "အပင်များ", "image": "assets/knowledge/02.png", "link": "https://t.me/MandMTechVerse/175" },
     { "name": "သုတရတနာသိုက်", "description": "ကမ္ဘာဦးသက်ရှိများ", "image": "assets/knowledge/03.png", "link": "https://t.me/MandMTechVerse/176" },
@@ -38,7 +38,7 @@
     { "name": "သုတရတနာသိုက်", "description": "အီလက်ထရွန်နစ် နှင့် စွမ်းအင်", "image": "assets/knowledge/08.png", "link": "https://t.me/MandMTechVerse/181" },
     { "name": "သုတရတနာသိုက်", "description": "ပို့ဆောင်ရေးယာဉ်များ", "image": "assets/knowledge/09.png", "link": "https://t.me/MandMTechVerse/182" },
     { "name": "သုတရတနာသိုက်", "description": "ဝါသနာပါရာ အပန်းဖြေစရာ", "image": "assets/knowledge/10.png", "link": "https://t.me/MandMTechVerse/183" },
-    { "name": "Typing Of The Dead Installation", "description": "How to Install Typing Of The Dead", "image": "assets/games/typingofthedead.png", "link": "https://www.facebook.com/watch/?v=2846188499108298" }
+    { "name": "Typing Of The Dead Installation", "description": "How to Install Typing Of The Dead", "image": "assets/games/typingofthedead.png", "link": "https://youtu.be/8ATKY7x6YtQ?si=XsuOOGD00o-D7ylf" }
 
   ]
 }
