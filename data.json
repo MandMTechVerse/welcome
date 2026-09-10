@@ -6,17 +6,18 @@
     { "name": "Windows Activation Program", "description": "To activate Windows", "image": "assets/tutorials/windows11.png", "link": "https://t.me/MandMTechVerse/39" },
     { "name": "Snappy Driver Installer v1.25.3", "description": "To install System Driver", "image": "assets/software/sdi.png", "link": "https://t.me/MandMTechVerse/55" },
     { "name": "Adobe Master Collection v12", "description": "To install Adobe Products", "image": "assets/software/adobe.png", "link": "https://t.me/MandMTechVerse/104" },
-    { "name": "Microsoft Office 365", "description": "To install Microsoft Office 365", "image": "assets/software/office365.png", "link": "https://t.me/MandMTechVerse/165" }
-
+    { "name": "Microsoft Office 365", "description": "To install Microsoft Office 365", "image": "assets/software/office365.png", "link": "https://t.me/MandMTechVerse/165" },
+    { "name": "M&M TechVerse System Repair", "description": "M&M TechVerse System Repair Tool V.1.0.0.0", "image": "assets/software/mnmsystemrepairtool.png", "link": "https://t.me/MandMTechVerse/189" }
   ],
+  
   "games": [
     { "name": "PC Building Simulator v1.15.3", "description": "Free PC Build Mode with 1200+ Realistic Parts", "image": "assets/games/pcbuildingsimulator.png", "link": "https://t.me/MandMTechVerse/41" },
     { "name": "Alien Shooter - Last Hope", "description": "Legendary PC Shooting Game", "image": "assets/games/alienshooter.png", "link": "https://t.me/MandMTechVerse/145" },
     { "name": "Plants Vs Zombies (Replanted)", "description": "Epic PC Defense Game", "image": "assets/games/plantsvszombies-replanted.png", "link": "https://t.me/MandMTechVerse/153" },
     { "name": "Onimusha Warlords", "description": "Mythical PC Action, Adventure & Fighting Game", "image": "assets/games/onimushawarlords.png", "link": "https://t.me/MandMTechVerse/156" },
     { "name": "Typing Of The Dead", "description": "Horror Typing Game Instead of Shooting", "image": "assets/games/typingofthedead.png", "link": "https://t.me/MandMTechVerse/187" }
-
   ],
+  
   "tutorials": [
     { "name": "WinRAR Installation", "description": "How to install WinRAR on your PC", "image": "assets/software/winrar.png", "link": "https://youtu.be/dr0kZUySOsw?si=VJQAoYLbYS65JSUt" },
     { "name": "Windows 11 Installation", "description": "Step-by-step guide to install Windows 11", "image": "assets/tutorials/windows11.png", "link": "https://youtu.be/wetyCRFuDDc?si=S9gt-qOfVB8tcMJD" },
@@ -39,6 +40,5 @@
     { "name": "သုတရတနာသိုက်", "description": "ပို့ဆောင်ရေးယာဉ်များ", "image": "assets/knowledge/09.png", "link": "https://t.me/MandMTechVerse/182" },
     { "name": "သုတရတနာသိုက်", "description": "ဝါသနာပါရာ အပန်းဖြေစရာ", "image": "assets/knowledge/10.png", "link": "https://t.me/MandMTechVerse/183" },
     { "name": "Typing Of The Dead Installation", "description": "How to Install Typing Of The Dead", "image": "assets/games/typingofthedead.png", "link": "https://youtu.be/8ATKY7x6YtQ?si=XsuOOGD00o-D7ylf" }
-
   ]
 }
