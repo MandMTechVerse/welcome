@@ -7,7 +7,7 @@
     { "name": "Snappy Driver Installer v1.25.3", "description": "To install System Driver", "image": "assets/software/sdi.png", "link": "https://t.me/MandMTechVerse/55" },
     { "name": "Adobe Master Collection v12", "description": "To install Adobe Products", "image": "assets/software/adobe.png", "link": "https://t.me/MandMTechVerse/104" },
     { "name": "Microsoft Office 365", "description": "To install Microsoft Office 365", "image": "assets/software/office365.png", "link": "https://t.me/MandMTechVerse/165" },
-    { "name": "M&M TechVerse System Repair", "description": "M&M TechVerse System Repair Tool V.1.0.0.0", "image": "assets/software/mnmsystemrepairtool.png", "link": "https://t.me/MandMTechVerse/189" }
+    { "name": "M&M TechVerse System Repair Tool V.1.0.0.0", "description": "A professional tool for your computer errors", "image": "assets/software/mnmsystemrepairtool.png", "link": "https://t.me/MandMTechVerse/189" }
   ],
   
   "games": [
